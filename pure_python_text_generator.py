@@ -1,18 +1,4 @@
-#!/usr/bin/env python3
-"""
-CODTECH INTERNSHIP - TASK 4
-Generative Text Model (Pure Python Implementation)
 
-Name: [Your Name]
-Company: CODTECH IT SOLUTIONS
-ID: [Your ID]
-Domain: Artificial Intelligence
-Duration: [Duration]
-Mentor: [Mentor Name]
-
-This is a complete implementation of a generative text model using only built-in Python libraries.
-No external dependencies required!
-"""
 
 import random
 import math
